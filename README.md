@@ -85,10 +85,9 @@ I am a Machine Learning Engineer from an Actuarial Science Background. I am inno
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Data Analysis Of Breast Cancer Dataset](https://medium.com/@tutorialcreation81/exploratory-data-analysis-of-breast-cancer-dataset-8c4cd7712f6f)
-- [Feature Selection In The Breast Cancer Dataset](https://medium.com/@tutorialcreation81/feature-selection-in-the-breast-cancer-dataset-4bd10a69b8d0)
-- [Geolidar Tool — For loading Lidar Data](https://medium.com/@tutorialcreation81/geolidar-tool-for-loading-lidar-data-81c930bd35f6)
-- [ETL Pipelines with Apache tools(Kafka,Airflow,Spark)](https://medium.com/@tutorialcreation81/apache-spark-kafka-and-airflow-for-etl-pipelines-2d91e641fbdf)
+- [Causal Inference](https://levelup.gitconnected.com/causal-inference-3d45b98ed6ae?source=rss-bb712ce953c5------2)
+- [End-to-end Speech Recognition model for Amharic using TensorFlow](https://medium.com/analytics-vidhya/end-to-end-speech-recognition-model-for-amharic-using-tensorflow-e72e60775bd9?source=rss-bb712ce953c5------2)
+- [Using Twitter Data to explore the Impact of Covid-19 in Africa](https://medium.com/analytics-vidhya/using-twitter-data-to-explore-the-impact-of-covid-19-in-africa-bdb8d3adf346?source=rss-bb712ce953c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
