@@ -1,6 +1,6 @@
 ### Hey everyone 👋🏾, I'm Martin Luther Bironga <img height="32px" src="https://user-images.githubusercontent.com/19794057/135730596-109a4c3b-f7ec-4feb-b661-c8d8c41a5c38.png">
 
-I am a Data| Machine Learning Engineer from an Actuarial Science Background. I am innovative and extremely excited to make a mark in whichever small way in the lives of people, using machine learning skills. I enjoy working through mathematical problems, and solving people's problems where I am able to.
+I am a Data | Machine Learning Engineer from an Actuarial Science Background. I am innovative and extremely excited to make a mark in whichever small way in the lives of people, using machine learning skills. I enjoy working through mathematical problems, and solving people's problems where I am able to.
 
 ### About Me 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Actuarial Science in Jomo Kenyatta University of Agriculture and Technology.
