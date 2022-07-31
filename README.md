@@ -85,9 +85,9 @@ I am a Data | Machine Learning Engineer from an Actuarial Science Background. I 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Geolidar Package,How to build a package](https://medium.com/@tutorialcreation81/geolidar-tool-for-loading-lidar-data-81c930bd35f6)
-- [Airflow, Kafka, Spark](https://medium.com/@tutorialcreation81/apache-spark-kafka-and-airflow-for-etl-pipelines-2d91e641fbdf)
-- [Airflow, DBT, Redash](https://medium.com/@tutorialcreation81/airflow-dbt-and-redash-elt-pipeline-3c45427c10ca)
+- [Causal Inference](https://levelup.gitconnected.com/causal-inference-3d45b98ed6ae?source=rss-bb712ce953c5------2)
+- [End-to-end Speech Recognition model for Amharic using TensorFlow](https://medium.com/analytics-vidhya/end-to-end-speech-recognition-model-for-amharic-using-tensorflow-e72e60775bd9?source=rss-bb712ce953c5------2)
+- [Using Twitter Data to explore the Impact of Covid-19 in Africa](https://medium.com/analytics-vidhya/using-twitter-data-to-explore-the-impact-of-covid-19-in-africa-bdb8d3adf346?source=rss-bb712ce953c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
